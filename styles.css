@@ -1,0 +1,30 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+.col {
+    text-align: center;
+    height: 100px;
+    widows: 100px;
+}
+@media screen and (max-width: 640px;) {
+    .container {
+        max-width=640px;
+    }
+
+}
+@media screen and (max-width: 768px;) {
+    .container {
+        max-width: 768px;;
+    }
+
+}
+@media screen and (max-width: 980px) {
+    .container {
+        max-width: 980px;;
+    }
+    
+}
+header {
+        position: static;
+    }
